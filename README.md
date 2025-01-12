@@ -1,6 +1,6 @@
 # Overview
 
-This is an Expo project with Drizzle ORM and ExpoSQLite.
+This is an Expo project with [Drizzle ORM](https://orm.drizzle.team/docs/connect-expo-sqlite) and [Expo SQLite](https://docs.expo.dev/versions/latest/sdk/sqlite/).
 
 It dynamically loads the SQLiteProvider component on **native** platforms only.
 For the **web** platform it just returns a dummy provider with the children.
